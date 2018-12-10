@@ -1,0 +1,1 @@
+Constructing by Logical Regression scorecard
